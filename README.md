@@ -1,0 +1,2 @@
+# myphoto
+Github图床
